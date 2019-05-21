@@ -9,22 +9,25 @@
 
 | Day | Title | code |
 | :-------------: | ------------- | :-------------: |
-| __chapter1__ | __Java基础知识__ -- _字词句、Java版计算器_ |
-| __day06-11__ | __Java对象细节__ -- _面向对象、对象与类、封装、继承、多态、简化代码_ |
-| __day12-13__ | __Java中的异常和包的使用__ |
-| __day14-16__ | __Java中的多线程__ -- _多生产多消费、人妖问题、eclipse_ |
-| __day17-18__ | __String类和JDK5__ |
-| __day19-21__ | __Java中各种集合容器的使用__ -- _学生信息管理_ |
-| __day22-26__ | __Java中的IO操作、时间文件切合和合并__ |
-| __day27__ | __Java中图形界面的使用__ |
-| __day28-29__ | __Java中网络编程__ -- _网络聊天、群聊、文件上传、浏览器_ |
-| __day30__ | __Java中的正则表达式和反射技术__ |
-| __day31__ | __网页标签语言HTML__ |
-| __day32__ | __网页布局、JavaScript__ |
-| __day33__ | __JavaScript和DOM技术结合、实现各种网页常见效果__ |
-| __JDK-新特性__ |  |
+| __chapter1__ | __[第1章-数据结构绪论](https://www.cnblogs.com/anliux/p/10824431.html)__ |
+| __chapter2__ | __[第2章-算法](https://www.cnblogs.com/anliux/p/10831566.html)__ |
+| __chapter3__ | __[第3章-线性表](https://www.cnblogs.com/anliux/p/10880648.html)__ | __[第3章线性表](https://github.com/anliux/Play-With-Data-Structure/tree/master/src/%E7%AC%AC3%E7%AB%A0%E7%BA%BF%E6%80%A7%E8%A1%A8)__ |
+| __chapter4__ | __[第4章-栈与队列]()__ | __chapter4__ |
+| __chapter5__ | __[第5章-串]()__ | __chapter4__ |
+| __chapter6__ | __[第6章-树]()__ | __chapter4__ |
+| __chapter7__ | __[第7章-图]()__ | __chapter4__ |
+| __chapter8__ | __[第8章-查找]()__ | __chapter4__ |
+| __chapter9__ | __[第9章-排序]()__ | __chapter4__ |
 
-
+### [第1章-数据结构绪论](https://www.cnblogs.com/anliux/p/10824431.html)
+### [第2章-算法](https://www.cnblogs.com/anliux/p/10831566.html)
+### [第3章-线性表](https://www.cnblogs.com/anliux/p/10880648.html)
+### [第4章-栈与队列]()
+### [第5章-串]()
+### [第6章-树]()
+### [第7章-图]()
+### [第8章-查找]()
+### [第9章-排序]()
 
 
 - #### 1-[]()

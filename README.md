@@ -20,3 +20,6 @@
 | __[第7章-图]()__ | __[第7章图](https://github.com/anliux/Play-With-Data-Structure/tree/master/src/%E7%AC%AC7%E7%AB%A0%E5%9B%BE)__ |
 | __[第8章-查找]()__ | __[第8章查找](https://github.com/anliux/Play-With-Data-Structure/tree/master/src/%E7%AC%AC8%E7%AB%A0%E6%9F%A5%E6%89%BE)__ |
 | __[第9章-排序]()__ | __[第9章排序](https://github.com/anliux/Play-With-Data-Structure/tree/master/src/%E7%AC%AC9%E7%AB%A0%E6%8E%92%E5%BA%8F)__ |
+
+
+（注：第四章的总结笔记的链接还没有修改）

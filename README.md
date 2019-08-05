@@ -22,5 +22,6 @@
 | __[第9章-排序](https://www.cnblogs.com/anliux/p/11291676.html)__ | __[第9章排序](https://github.com/anliux/Play-With-Data-Structure/tree/master/src/%E7%AC%AC9%E7%AB%A0%E6%8E%92%E5%BA%8F)__ |
  
 - 更新至第六章（已完结）
+- 0805：今日争取更新完第七章
 
 

@@ -21,7 +21,7 @@
 | __[第8章-查找](https://www.cnblogs.com/anliux/p/11280558.html)__ | __[第8章查找](https://github.com/anliux/Play-With-Data-Structure/tree/master/src/%E7%AC%AC8%E7%AB%A0%E6%9F%A5%E6%89%BE)__ |
 | __[第9章-排序](https://www.cnblogs.com/anliux/p/11291676.html)__ | __[第9章排序](https://github.com/anliux/Play-With-Data-Structure/tree/master/src/%E7%AC%AC9%E7%AB%A0%E6%8E%92%E5%BA%8F)__ |
  
-- 更新至第六章（已完结）
+- ### 更新至第六章（已完结）
 - 0805：今日争取更新完第七章
 - 0806：并没有更完，加油啊!!!!!
 - 0807：又没更完，窒息了。。
@@ -29,4 +29,6 @@
 - 0810：今天肝到爆也要更完第七章!!!!!!
 - 0811：今天不更完第七章是狗!!!!!!八点半了，加班加点加油！！！
 - 0812：蝇营狗苟。。。
-
+- 0813：第七章更完
+- ### 更新至第七章（已完结）
+- 0813：尽快更完第八章!!!!!
